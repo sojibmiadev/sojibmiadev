@@ -18,13 +18,13 @@ Skills:  BOOTSTRAP / Javascript / JS / HTML / CSS
 
 - 🌱 I’m currently learning Python.
 
-- 👨‍💻 All of my projects are available at [https://github.com/SojibRWD](https://github.com/sojibmiadev)
+- 👨‍💻 All of my projects are available at [https://github.com/sojibmiadev](https://github.com/sojibmiadev)
 
 - 📝 I regularly write articles on [https://www.learnwithsojib.xyz/](https://www.learnwithsojib.xyz/)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **sajibhashi1@gmail.com**
+- 📫 How to reach me **sojibmia24.bd@gmail.com**
 
 - 📄 All About Me: https://twitter.com/SojibHashi
 
